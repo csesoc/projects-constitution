@@ -25,7 +25,7 @@ UNSW CSESoc Projects's Constitution; Easily track changes and see who suggested 
         1.6.5  Full members shall mean full members of the CSESoc Projects; 
         1.6.6  Associate members shall mean associate members of the CSESoc Projects; 
         1.6.7  The Executive shall mean the Executive of the CSESoc Projects; 
-        1.6.8  The Annual General Meeting shall mean the Annual General Meeting of the CSE Society; 
+        1.6.8  The Annual General Meeting shall mean the Annual General Meeting of CSESoc Projects; 
         1.6.9  An academic day shall mean a day during the first, second or third term of the University’s 
                academic year which is not a Saturday, Sunday, Public Holiday or University Holiday; 
         1.6.10 A business day shall mean a day which is not a Saturday, Sunday, Public Holiday, 
@@ -41,7 +41,7 @@ UNSW CSESoc Projects's Constitution; Easily track changes and see who suggested 
     2.1 The list of full members of CSESoc Projects is maintained by the school of CSE.
         All modifications to this list will remain with the Executive. Society lists are not to be given or sold to any other 
         third party; Arc and the Executive shall have sole access.
-    2.2 (//TODO) The society will be a Constituent society since it has an agreed association with School of 
+    2.2 The society will be a Constituent society since it has an agreed association with School of 
         Computer Science and Engineering, which is ratified by Arc. 
     2.3 Full membership shall be conferred upon students who are enrolled in Computer Science, 
         Computer Engineering, Software Engineering, Bioinformatics Engineering, or a post-graduate 
@@ -68,9 +68,9 @@ UNSW CSESoc Projects's Constitution; Easily track changes and see who suggested 
     3.1 The Executive of the CSESoc Projects shall be elected from the online election as set out in 
         section 8 and shall consist of: 
         3.1.1 Two (2) Co-presidents;
-        3.1.2 One (1) Secretary;
+        3.1.2 One (1) Administration Officer;
         3.1.4 One (1) HR Officer
-        3.1.6 One (1) Chief Engineering Officer
+        3.1.6 One (1) Engineering Officer
     3.2 A member is permitted to hold no more than one (1) Executive position.
     3.3 The Executive shall be responsible for the following duties: 
         3.3.1 Ensuring that through the activities of the Society’s working groups, its aims are being fulfilled;
@@ -118,14 +118,14 @@ UNSW CSESoc Projects's Constitution; Easily track changes and see who suggested 
            l) To ensure that an “Application for Affiliation” form accompanied by the minutes 
               of the most recent Annual General Meeting and an updated membership list is 
               submitted to Arc; 
-           m) To ensure that the Treasurer submits a Financial Report to the society at the 
+           m) To ensure that the Administration Officer submits a Financial Report to the society at the 
               AGM and to Arc and that they have the society’s finances in good order in 
               preparation for Spot Audits by Arc; 
            n) To ensure that Arc is informed of changes to the Executive;
            o) To liase with CSESoc and the club's Executive;
            p) To pass on their knowledge to their successor; and 
            q) Other duties as in accordance with the constitution of the society’s guidelines. 
-        3.7.2 DUTIES OF THE SECRETARY 
+        3.7.2 DUTIES OF THE ADMINISTRATION OFFICER 
            a) To be responsible for receiving and replying to all correspondence on behalf of 
               the society; 
            b) To organise meetings, agendas (with consultation with the Co-Presidents), and 
@@ -182,11 +182,11 @@ UNSW CSESoc Projects's Constitution; Easily track changes and see who suggested 
            s) Keeping apprised of any significant issues affecting students from non-majority demographics within the Club and report any relevant issues to the Club Executive;
            t) Monitoring engagement and membership of students from non-majority demographics within the Club and provide regular updates to the Club Executive;
            u) Other relevant duties as required.
-        3.7,5 DUTIES OF CHIEF ENGIEERING OFFICER (//TODO)
-           a) To be responsible for the upkeep, maintenance, growth and management of CSESoc Projects Technical Infrastructure
-           b) Liase with working group heads with any major design decisions, or technical assistance needed
-           c) Maintaining a DevOps culture, or adequately delegating those responsibilities to a working group
-           d) Monitor and maintain existing services
+        3.7,5 DUTIES OF ENGIEERING OFFICER
+           a) To be responsible for the upkeep, maintenance, growth and management of CSESoc Projects Technical Infrastructure.
+           b) Liase with working group heads with any major design decisions, or technical assistance needed.
+           c) Maintaining a DevOps culture, or adequately delegating those responsibilities to a working group.
+           d) Monitor and maintain existing services.
            e) To enforce best practices, and relevant local legislation regards to any technical projects.
 
     
@@ -219,7 +219,7 @@ UNSW CSESoc Projects's Constitution; Easily track changes and see who suggested 
         5.1.4 Quorum for the Annual General Meeting shall be fifteen members or one half of the 
               society membership, whichever is the lesser. 
         5.1.5 At an Annual General Meeting: 
-            5.1.5.1 Reports shall be presented by at least the Co-Presidents and the Treasurer; 
+            5.1.5.1 Reports shall be presented by at least the Co-Presidents and the Administration officer; 
             5.1.5.2 Full financial reports shall be presented and adopted; 
             5.1.5.3 Constitutional amendments and other motions on notice may be discussed and 
                     voted upon; and 
@@ -246,10 +246,10 @@ UNSW CSESoc Projects's Constitution; Easily track changes and see who suggested 
         5.3.3 Executive Meetings shall be held in confidence, except that the Executive may invite 
               members of the society or other guests to attend. These observers shall have no vote. 
             5.3.3.1 Heads of working groups who are invited to Executive Meetings are required to attend. 
-        5.3.4 The secretary shall send the agenda for the meeting, to all those required to attend, no 
+        5.3.4 The administration officer shall send the agenda for the meeting, to all those required to attend, no 
               later than two (2) days prior to the meeting, notwithstanding 5.5.1.7. 
         5.3.5 In the event of a tie during a vote at the executive meeting, each of the Co-Presidents may cast
-              an extra vote. If this does not break the tie, the Treasurer may cast an extra vote to break the tie.
+              an extra vote. If this does not break the tie, the Administration Officer may cast an extra vote to break the tie.
     5.4 HANDOVER MEETING 
         5.4.1 There shall be a Handover Meeting no more than a calendar month after the 
               pronouncement of election results. 
@@ -270,7 +270,7 @@ UNSW CSESoc Projects's Constitution; Easily track changes and see who suggested 
                     Extraordinary General Meeting; and 
             5.5.1.6 Constitutional changes passed at an Annual or Extraordinary General Meeting 
                     will not take effect until ratified by Arc. 
-            5.5.1.7 The Secretary shall send the agenda for the meeting, to all those required to 
+            5.5.1.7 The Administration Officer shall send the agenda for the meeting, to all those required to 
                     attend, no later than two (2) business days prior to the meeting. 
  
 # 6 FINANCE
@@ -278,9 +278,9 @@ UNSW CSESoc Projects's Constitution; Easily track changes and see who suggested 
     6.1 The CSESoc Projects shall hold an account with a financial institution on University campus. 
     6.2 The Executive must approve all accounts for payment. 
     6.3 All financial transactions shall require two signatures, one of which must be that of the 
-        society Treasurer. 
+        society Administration Officer. 
         6.3.1 In the case of EFT, the required signatures shall be digital. 
-    6.4 The Co-presidents and the Treasurer shall be the signatories to the society’s account(s). 
+    6.4 The Co-presidents and the Administration Officer shall be the signatories to the society’s account(s). 
     6.5 The financial records of the society shall be open for inspection by Arc at all times. 
  
 # 7 DISSOLUTION 
@@ -321,13 +321,13 @@ UNSW CSESoc Projects's Constitution; Easily track changes and see who suggested 
     8.2 Nominations must remain open until the later of: 
         8.2.1 one calendar week after nominations open; or 
         8.2.2 there are at least two (2) nominees for Co-presidents and one (1) nominee for each 
-              other position excluding the Grievance Officer, and at least five (5) unique nominees for the positions in total. 
-        8.2.3 In the case of no member being nominated for the position of Grievance Officer, the incoming executive will have a vote to appoint one of themselves as a Grievance Officer.
+              other position excluding the HR Officer, and at least five (5) unique nominees for the positions in total. 
+        8.2.3 In the case of no member being nominated for the position of HR Officer, the incoming executive will have a vote to appoint one of themselves as a HR Officer.
     8.3 Nominations must be entered and seconded by two (2) full members, one of whom must be 
         the nominee. 
     8.4 The Co-Presidents shall maintain the official list of nominees during the nomination period,
         and upon its closure, forward the list to the School of CSE, who shall run the official election. 
-        The list of full members who have been removed from the society will be sent to the School of CSE by the Secretary
+        The list of full members who have been removed from the society will be sent to the School of CSE by the Administration Officer
         on this same day.
         8.4.1 Only elections run by an officer appointed by the School of CSE shall be recognised. 
         8.4.2 The Exec may choose that the list be made publicly available during the nomination 
@@ -341,7 +341,7 @@ UNSW CSESoc Projects's Constitution; Easily track changes and see who suggested 
     8.8 Voting is to be confidential and anonymous with the exception of,
         8.8.1 In the event of a full member being prevented by the School of CSE from accessing the voting site,
         votes shall be submitted to the first executive member not running in the election in the following list; 
-        the Co-Presidents, the Secretary, the Treasurer, the Arc Delegate. If all of the above are running in the election
+        the Co-Presidents, the Administration Officer, the Arc Delegate, the Engineering Officer. If all of the above are running in the election
         the vote should be submitted to the appointed returning officer (appointed by the school of CSE).
         The executive member will then submit the anonymised vote to the member in charge of maintaing the list of nominees.
     8.9 Votes will be counted using CSESoc UNSW's modified version of the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system. 
