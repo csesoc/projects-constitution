@@ -1,4 +1,4 @@
-csesoc-constitution
+csesoc-projects-constitution
 ===================
 
 UNSW CSESoc Projects's Constitution; Easily track changes and see who suggested what amendments.
