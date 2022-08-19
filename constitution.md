@@ -29,15 +29,15 @@ UNSW CSESoc Projects's Constitution; Easily track changes and see who suggested 
 
 # 2 MEMBERSHIP 
 
-    1.5 Contact details for members of the club are to remain with the Executive to have sole access. Contact details are not to be given or sold to any other person.
-    1.6 The Club has an agreed association with the UNSW School of Computer Science and Engineering. Membership of the Club shall be open to all UNSW students enrolled in subjects under the jurisdiction of the School.
-        1.6.1 Enrolments shall be defined as current enrolment in an agreed program under section 2.3.
-        1.6.2 As soon as a member no longer meets the requirements of a full member defined in section 2.3 their membership shall be terminated.
-    2.5 Notwithstanding sections 2.3.1 and 2.4.1, membership shall be terminated when: 
-        1.6.3 The member dies;
-        1.6.4 The member notifies the executive in writing to request their membership be terminated; or
-        1.6.5 Their membership is terminated under section 2.7.
-    1.7 The society shall comply with the Anti-Discrimination Act (1977) in all of its activities or 
+    2.1 Contact details for members of the club are to remain with the Executive to have sole access. Contact details are not to be given or sold to any other person.
+    2.2 The Club has an agreed association with the UNSW School of Computer Science and Engineering. Membership of the Club shall be open to all UNSW students enrolled in subjects under the jurisdiction of the School.
+        2.2.1 Enrolments shall be defined as current enrolment in an agreed program under section 2.3.
+        2.2.2 As soon as a member no longer meets the requirements of a full member defined in section 2.3 their membership shall be terminated.
+    2.3 Notwithstanding sections 2.3.1 and 2.4.1, membership shall be terminated when: 
+        2.3.1 The member dies;
+        2.3.2 The member notifies the executive in writing to request their membership be terminated; or
+        2.3.3 Their membership is terminated under section 2.7.
+    2.3 The society shall comply with the Anti-Discrimination Act (1977) in all of its activities or 
         procedures, including the granting of society membership. 
 
 # 3 EXECUTIVE
@@ -65,9 +65,9 @@ UNSW CSESoc Projects's Constitution; Easily track changes and see who suggested 
             3.5.3.3. The members of the society are formally notified of the motion upon notice of an Extraordinary General Meeting under Section 4.2;
             3.5.3.4. The Executive  member concerned is notified of the motion and reasons for termination in writing at 
             least five (5) academic days prior to the Extraordinary General Meeting;
-            3.5.3.4. The Executive member concerned is given five (5) minutes to speak against the motion at the Extraordinary 
+            3.5.3.5. The Executive member concerned is given five (5) minutes to speak against the motion at the Extraordinary 
             General Meeting; and
-            3.5.3.5. The motion is carried by the Extraordinary General Meeting.
+            3.5.3.6. The motion is carried by the Extraordinary General Meeting.
     3.6. Any vacancy in the society Executive must be filled by following the election procedure under Section 8.
         3.6.1. If there is a tie for the vacant executive position, the current executive shall have a casting vote in the 
         election.
@@ -137,13 +137,13 @@ UNSW CSESoc Projects's Constitution; Easily track changes and see who suggested 
            h) Facilitating & promoting the engagement of non-majority demographics of the Club (which may include culturally diverse students, students with disabilities, female-identifying students, gender diverse students and LGBTQIA+ students and indigenous students);
            i) Engaging & representing student members of non-majority demographics of the Club;
            j) Ensuring the Club takes into consideration needs and requirements of non-majority demographics of the Club in its events and activities, such that all of events are as inclusive as possible and appropriate for non-majority demographics (including but not exclusive to minimising the number of events in the year that coincide with cultural holidays);
-           j) Ensuring that all Club communications can be understood clearly by all students (e.g avoiding the use of slang and idioms);
-           k) Being an accessible contact for members, UNSW students and UNSW staff for matters regarding equitable events, activities, conduct and diversity within the Club;
-           l) Providing guidance to representatives of the Club (Executives, committee members, volunteers etc) on appropriate ways to communicate and behave inclusively;
-           m) Keeping apprised of any significant issues affecting students from non-majority demographics within the Club and report any relevant issues to the Club Executive;
-           n) Monitoring engagement and membership of students from non-majority demographics within the Club and provide regular updates to the Club Executive;
-           o) Other relevant duties as required.
-        3.7,5 DUTIES OF ENGIEERING OFFICER
+           k) Ensuring that all Club communications can be understood clearly by all students (e.g avoiding the use of slang and idioms);
+           l) Being an accessible contact for members, UNSW students and UNSW staff for matters regarding equitable events, activities, conduct and diversity within the Club;
+           m) Providing guidance to representatives of the Club (Executives, committee members, volunteers etc) on appropriate ways to communicate and behave inclusively;
+           n) Keeping apprised of any significant issues affecting students from non-majority demographics within the Club and report any relevant issues to the Club Executive;
+           o) Monitoring engagement and membership of students from non-majority demographics within the Club and provide regular updates to the Club Executive;
+           p) Other relevant duties as required.
+        3.7.5 DUTIES OF ENGIEERING OFFICER
            a) To be responsible for the upkeep, maintenance, growth and management of CSESoc Projects Technical Infrastructure.
            b) Liase with working group heads with any major design decisions, or technical assistance needed, and the Executives.
            c) Maintaining a DevOps culture, or adequately delegating those responsibilities to a working group.
